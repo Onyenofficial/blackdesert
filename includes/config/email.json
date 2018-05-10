@@ -1,0 +1,15 @@
+{
+    "active": true,
+    "send_from": "noreply@email.com",
+    "send_name": "Black Desert Online",
+    "smtp_active": false,
+    "smtp_debug": "0",
+    "smtp_host": "smtp.host.com",
+    "smtp_ipv6": true,
+    "smtp_port": "587",
+    "smtp_secure": "tls",
+    "smtp_auth": false,
+    "smtp_user": "user",
+    "smtp_pass": "pass",
+    "email_header_image": "https:\/\/static.webenginecms.org\/200_email_header.jpg"
+}
